@@ -18,5 +18,10 @@
   "homepage": "https://github.com/DorianLiu0413TW/NFT-set-birthday-up#readme",
   "dependencies": {
     "@openzeppelin/contracts": "^4.6.0"
+  },
+  "devDependencies": {
+    "erc721a": "^4.1.0",
+    "hardaht": "^1.0.1",
+    "hardhat": "^2.9.9"
   }
 }
